@@ -1,0 +1,8 @@
+d:\CodeDev\bin\Debug\netcoreapp1.1\CodeDev.deps.json
+d:\CodeDev\bin\Debug\netcoreapp1.1\CodeDev.runtimeconfig.json
+d:\CodeDev\bin\Debug\netcoreapp1.1\CodeDev.runtimeconfig.dev.json
+d:\CodeDev\bin\Debug\netcoreapp1.1\CodeDev.dll
+d:\CodeDev\bin\Debug\netcoreapp1.1\CodeDev.pdb
+d:\CodeDev\obj\Debug\netcoreapp1.1\CodeDev.AssemblyInfo.cs
+d:\CodeDev\obj\Debug\netcoreapp1.1\CodeDev.dll
+d:\CodeDev\obj\Debug\netcoreapp1.1\CodeDev.pdb
