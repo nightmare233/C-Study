@@ -38,7 +38,7 @@ namespace CodeDev
 
         public string GetBoxName()
         {
-            return this.Name+"-"+Age+" you got it by class internal method...";
+            return this.Name+"-"+Age+" you got it by class internal method..."+Title;
         }
     }   
 }
